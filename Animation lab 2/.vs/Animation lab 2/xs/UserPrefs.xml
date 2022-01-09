@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{96F98264-25CF-9608-A091-F64C3F2FEC7C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CreateGrid.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Node.cs" Line="20" Column="1" />
+      <File FileName="Assets/Scripts/GridCell.cs" Line="24" Column="9" />
+      <File FileName="Assets/Scripts/NodeConnections.cs" Line="18" Column="42" />
+      <File FileName="Assets/GridConnections.cs" Line="5" Column="47" />
+      <File FileName="Assets/CellConnection.cs" Line="8" Column="75" />
+      <File FileName="Assets/Grid.cs" Line="6" Column="75" />
+      <File FileName="Assets/Scripts/Connection.cs" Line="28" Column="1" />
+      <File FileName="Assets/Scripts/Graph.cs" Line="33" Column="62" />
+      <File FileName="Assets/Scripts/A_Star.cs" Line="11" Column="51" />
+      <File FileName="Assets/CreateGrid.cs" Line="7" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e1b1354b-0fc2-41d9-a25e-7d0162be22af" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
